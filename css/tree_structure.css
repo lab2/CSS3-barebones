@@ -1,0 +1,28 @@
+body {
+	margin-top: 20px;
+	font: 12px Arial;
+}
+
+ul.tree,ul.tree ul {
+	list-style-type: none;
+	background: url('../img/vline.png') repeat-y;
+	margin: 0;
+	padding: 0;
+}
+
+ul.tree ul {
+	margin-left: 25px;
+}
+
+ul.tree li {
+	margin: 0;
+	padding: 0 12px;
+	line-height: 20px;
+	background: url('../img/node.png') no-repeat;
+	color: #369;
+	font-weight: bold;
+}
+
+ul.tree li.last {
+	background: #FFF url('../img/lastnode.png') no-repeat;
+}
