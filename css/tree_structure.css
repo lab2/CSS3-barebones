@@ -1,8 +1,3 @@
-body {
-	margin-top: 20px;
-	font: 12px Arial;
-}
-
 ul.tree,ul.tree ul {
 	list-style-type: none;
 	background: url('../img/vline.png') repeat-y;
@@ -24,5 +19,5 @@ ul.tree li {
 }
 
 ul.tree li.last {
-	background: #FFF url('../img/lastnode.png') no-repeat;
+	background: url('../img/lastnode.png') no-repeat;
 }
