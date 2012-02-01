@@ -3,9 +3,9 @@ html {
 }
 
 body {
-* Safari 4+, Chrome 1-9 */
+   /* Safari 4+, Chrome 1-9 */
    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#2F2727), to(#1a82f7));
-
+   
    /* Safari 5.1+, Mobile Safari, Chrome 10+ */
    background-image: -webkit-linear-gradient(top, #2F2727, #1a82f7); 
 
