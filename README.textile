@@ -1,3 +1,3 @@
-h1. CSS barebones
+h1. CSS3 barebones
 
-CSS useful techniques, effects and snippets. For any bug let me know at "lab2@codespin.ch":mailto:lab2@codespin.ch. 
+CSS3 useful techniques, effects and snippets. For any bug let me know at "lab2@codespin.ch":mailto:lab2@codespin.ch. 
