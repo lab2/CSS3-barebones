@@ -4,7 +4,7 @@ CSS3 useful techniques, effects and snippets. For any bug let me know at "lab2@c
 
 h2. Tested
 
-Tested in following browsers
+Tested in following browsers:
 
 * Google Chrome (16.0.912.77)
 * Internet Explorer 9.0.8112.16421 (64-bit Edition)
