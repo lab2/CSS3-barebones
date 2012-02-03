@@ -12,14 +12,14 @@
 	background: -webkit-radial-gradient(top, #B2C9FF, #0076AD);
 	
 	/* Firefox 3.6+ */
-	background: -moz-radial-gradient(top, #0AC9FF, #0076AD);
+	background: -moz-radial-gradient(top, #B2C9FF, #0076AD);
 	
 	/* IE 10+ */
-	background: -ms-radial-gradient(top, #0AC9FF, #0076AD);
+	background: -ms-radial-gradient(top, #B2C9FF, #0076AD);
 	
 	/* Opera 11.10+ */
-	background: -o-radial-gradient(top, #0AC9FF, #0076AD);
+	background: -o-radial-gradient(top, #B2C9FF, #0076AD);
 	
 	/* W3C Standard */
-	background: radial-gradient(top, #0AC9FF, #0076AD);
+	background: radial-gradient(top, #B2C9FF, #0076AD);
 }
